@@ -153,14 +153,6 @@
 		"name": "Print\nArea",
 		"title": "PrintArea"
 	},
-    {
-        "name": "GlobeFn",
-        "title": "Globe"
-    },
-    {
-        "name": "Mac\nLock",
-        "title": "MacLock"
-    },
 	{
 		"name": "Dev\nReset",
 		"title": "Device Reset"

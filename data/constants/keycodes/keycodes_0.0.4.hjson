@@ -1,0 +1,20 @@
+{
+    "keycodes": {
+        "0x00C3": {
+            "group": "media",
+            "key": "KC_GLOBE",
+            "label": "Apple Globe/FN Key",
+            "aliases": [
+                "KC_GLB"
+            ]
+        },
+        "0x00C4": {
+            "group": "media",
+            "key": "KC_SCREEN_LOCK",
+            "label": "Lock screen",
+            "aliases": [
+                "KC_SLCK"
+            ]
+        }
+    }
+}
